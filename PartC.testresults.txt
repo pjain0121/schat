@@ -1,9 +1,4 @@
-/*                                                                              
- * Group15                                                                      
- * Names: Preet Jain Devam Punitbhai Patel                                      
- * NSID: pvj636 / dns682                                                        
- * Student Number: 11270494/ 11316715                                           
- */
+
 
 1. testing with no arguments
 dns682@s360-peon7:~/cmpt332-2023-group15/a2/a2-phase2> ./build/bin/s-chat-x86 
